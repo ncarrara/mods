@@ -1,7 +1,9 @@
 # mods
 Custom RPG mod for Age of Empire 2 2013 (HD)
 
-It work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
+It is a work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
+
+![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
 
 Featuring:
   - casting spells directly from heroes.
