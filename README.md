@@ -46,7 +46,7 @@ Consumables:
 * When buying this new unit, make sure to rally the unit inside a close hero/ram/transport ship. That way the unit won't instantly die, it will stay inside the hero.
 
 Item equip/desequip:
-* create a new unit, act as an item (amror/weapon/etc)
+* create a new unit, act as an item (armor/weapon/etc)
 * once created, use a trigger to teleport the unit to a part of the map
 * move the unit to an area to equip the item, desequip by moving the unit out of the area
 
