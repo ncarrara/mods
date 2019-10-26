@@ -1,7 +1,8 @@
 # mods
 Custom mods for Age of Empire 2 2013 (HD)
 
-*RPG*
+**RPG**
+
 rpg is work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
 
 Featuring:
@@ -15,18 +16,19 @@ Actually implemented:
 - health/mana/energy potions
 - heavy armor
 - 1 heroes
+- 1 spell (fatal blow)
 - merchant and custom backsmith
 
-rpg - dataset
+*rpg - dataset*
   Contains the .dat file with new units and items
 
-rpg - strings
+*rpg - strings*
   Contains the modified strings for the new units and items
 
-rpg - map
+*rpg - map*
   Template map with triggers.
 
-*How to install*
+**How to install**
 
 * Copy those 3 folders to steam\steamapps\common\Age2HD\mods
 * Run Age of Empire  HD on steam
