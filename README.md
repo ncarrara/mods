@@ -35,6 +35,8 @@ Actually implemented:
 * Go to the workshop utility and activate the string (move the mod up to the list)
 * Create a new game (single of multiplayer) and choose the custom rpg dataset and the rpg scenario.
 
+**How to edit**
+
 In order to edit the map with the customs unit, first, create a single game with the dataset. 
 Then quit the game, and edit the template rpg.aoescenario witht he scenario editor.
 
