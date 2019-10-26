@@ -51,3 +51,8 @@ I recommend these softwares to modify the dataset and the scenario:
 ![Alt text](img/2.png?raw=true "Armory")
 
 ![Alt text](img/3.png?raw=true "Effects")
+
+
+![Alt text](img/4.png?raw=true "Map template")
+
+![Alt text](img/5.png?raw=true "Equip heavy armor")
