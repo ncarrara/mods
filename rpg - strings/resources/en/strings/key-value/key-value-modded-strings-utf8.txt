@@ -25,3 +25,7 @@
 5808 "Heavy Armor"
 6808 "Buy  Heavy Armor"
 5809 "Blacksmith (for heroes)"
+5810 "Witch"
+5811 "Assassin"
+5812 "Assassin Decoy"
+6812 "Invoke Assassin Decoy"
