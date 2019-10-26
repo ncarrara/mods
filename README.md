@@ -3,7 +3,7 @@ Custom RPG mod for Age of Empire 2 2013 (HD)
 
 It is a work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
 
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Alt text](img/0.png?raw=true "Spells and Consumables")
 
 Featuring:
   - casting spells directly from heroes.
@@ -43,3 +43,11 @@ Then quit the game, and edit the template rpg.aoescenario witht he scenario edit
 I recommend these softwares to modify the dataset and the scenario:
   * Advanced Genie Editor [http://aok.heavengames.com/blacksmith/showfile.php?fileid=11002]
   * AoK Trigger Studio [http://aok.heavengames.com/blacksmith/showfile.php?fileid=12103]
+  
+**Screenshots**
+
+![Alt text](img/1.png?raw=true "Buy from the merchant")
+
+![Alt text](img/2.png?raw=true "Armory")
+
+![Alt text](img/3.png?raw=true "Effects")
