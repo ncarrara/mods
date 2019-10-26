@@ -5,6 +5,8 @@ It is a work in progress framework for Role Playing in Age of Empire 2. It's mor
 
 ![Alt text](img/0.png?raw=true "Spells and Consumables")
 
+It is a 8 players game. 7 first players are heroes. The last one is the role master/ennemy to all.
+
 Featuring:
   - casting spells directly from heroes.
   - using consumable items directly from heroes.
