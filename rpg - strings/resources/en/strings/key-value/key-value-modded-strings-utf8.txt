@@ -1,0 +1,27 @@
+//INSTRUCTIONS:
+//When you create any mod by creating a directory inside Steam, 
+//certain files will automatically copy over, including this 
+//file when you run the game. If you want to replace or add any
+//strings, place them in this file and when the mod is enabled, 
+//these strings will also be added. The english string file is 
+//a global fallback when a string cannot be found in the 
+//desired native language file.
+//
+//If you would like to modify an existing string, copy only
+//the strings you wish to modify into this file, and do not
+//delete them from the original file.
+
+5800 "Heroes Tent"
+5801 "Duelist"
+5802 "Consumable - Health Potion"
+6802 "Buy Consumable - Health Potion"
+5803 "Merchant"
+5804 "Spell - Fatal Blow"
+5805 "Heroe 1"
+5806 "Consumable - Mana Potion"
+6806 "Buy Consumable - Mana Potion"
+5807 "Consumable - Endurance Potion"
+6807 "Buy Consumable - Endurance Potion"
+5808 "Heavy Armor"
+6808 "Buy  Heavy Armor"
+5809 "Blacksmith (for heroes)"
