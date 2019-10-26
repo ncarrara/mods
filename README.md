@@ -44,8 +44,10 @@ I recommend these softwares to modify the dataset and the scenario:
   * Advanced Genie Editor [http://aok.heavengames.com/blacksmith/showfile.php?fileid=11002]
   * AoK Trigger Studio [http://aok.heavengames.com/blacksmith/showfile.php?fileid=12103]
   
-** Screenshots **
+**Screenshots**
 
 ![Alt text](img/1.png?raw=true "Buy from the merchant")
+
 ![Alt text](img/2.png?raw=true "Armory")
+
 ![Alt text](img/3.png?raw=true "Effects")
