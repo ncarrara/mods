@@ -1,15 +1,13 @@
 # mods
-Custom mods for Age of Empire 2 2013 (HD)
+Custom RPG mod for Age of Empire 2 2013 (HD)
 
-**RPG**
-
-rpg is work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
+It work in progress framework for Role Playing in Age of Empire 2. It's more like a set of templating files than an actual playable mod.
 
 Featuring:
-  - casting spells directly from heroes
-  - using consumable items directly from heroes
-  - equip/desequip armor/weapons
-  - buy consumables from a merchant
+  - casting spells directly from heroes.
+  - using consumable items directly from heroes.
+  - equip/desequip armor/weapons.
+  - buy consumables from a merchant.
   - buy weapons/armors from the blacksmith building.
   
 Actually implemented:
