@@ -27,6 +27,30 @@ Actually implemented:
 
 *rpg - map*
   Template map with triggers.
+  
+**How it works**
+
+Hero:
+* create a new unit by copying a ram (with Advance Genie Editor 3 (AGE3))
+* transform the unit into a building, with building interface and unit type.
+
+Spell:
+* create a new unit, acting as spell. 
+* make sure this unit is created from the hero (building)
+* add a trigger that detect this unit, cast the spell, then delete the unit
+
+Consumables:
+* create a new units that die instantly, acting as consumable
+* When dying, this unit must provide 1 point of a new ressource (for example AK unused 198).
+* In Age of king trigger studio, add a trigger that detect this new resource, then trigger the effect, and remove the resource.
+* When buying this new unit, make sure to rally the unit inside a close hero/ram/transport ship. That way the unit won't instantly die, it will stay inside the hero.
+
+Item equip/desequip:
+* create a new unit, act as an item (armor/weapon/etc)
+* once created, use a trigger to teleport the unit to a part of the map
+* move the unit to an area to equip the item, desequip by moving the unit out of the area
+
+
 
 **How to install**
 
@@ -51,3 +75,8 @@ I recommend these softwares to modify the dataset and the scenario:
 ![Alt text](img/2.png?raw=true "Armory")
 
 ![Alt text](img/3.png?raw=true "Effects")
+
+
+![Alt text](img/4.png?raw=true "Map template")
+
+![Alt text](img/5.png?raw=true "Equip heavy armor")
